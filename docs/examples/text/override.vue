@@ -9,8 +9,8 @@
       <el-text tag="sub" size="small">subscript</el-text>
     </el-text>
     <el-text>
-      This is
       <el-text tag="sup" size="small">superscript</el-text>
+      This is
     </el-text>
     <el-text tag="ins">Inserted</el-text>
     <el-text tag="del">Deleted</el-text>
